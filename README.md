@@ -1,10 +1,10 @@
-# Get-to-know-me-a-little-!
+# Get to know me a little !
 Hello World!
 ---
 
 **About Me!**
 
-Aspiring **Data Analyst | Business Intelligence Analyst** with a BA in Politics, Economics & Technology, seeking entry-level opportunities in Data Analytics. I see spreadsheets as canvases 🎨 and numbers as stories 📖. Aspiring Data Analyst 📊 with a marketing mind 💡 — building projects that turn *‘What’s going on?’ into ‘Here’s what to do.’* 🚀
+Aspiring **Data Analyst | Business Intelligence Analyst** with a BA in Politics, Economics & Technology, seeking entry-level opportunities in Data Analytics. I see spreadsheets as canvases 🎨 and numbers as stories 📖. Aspiring Data Analyst 📊 with a marketing mind 💡 I am currently building projects that turn *‘What’s going on?’ into ‘Here’s what to do.’* 🚀
 
 ---
 
