@@ -9,8 +9,8 @@ Aspiring **Data Analyst | Business Intelligence Analyst** with a BA in Politics,
 ---
 
 **Skills & Technologies**
-- Microsoft Excel (Advanced)
-- SQL (Learning)
+- Microsoft Excel 
+- SQL
 - Python (Learning)
 - Digital Marketing & SEO
 - Social Media Management
